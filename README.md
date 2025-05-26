@@ -25,7 +25,8 @@ Welcome to my GitHub! I'm a Computer Science & Engineering student passionate ab
 
 ## 📈 GitHub Stats
 
-![Vineet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vineetsharma9211&show_icons=true&theme=tokyonight)
+![Vineet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vineetsharma9211&show_icons=true&include_all_commits=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vineetsharma9211&layout=compact&theme=tokyonight)
 
 ---
