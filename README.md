@@ -1,18 +1,18 @@
-# 👋 Hello! I'm Vineet Sharma
+#  Hello! I'm Vineet Sharma
 
 Welcome to my GitHub! I'm a Computer Science & Engineering student passionate about building intelligent systems and solving real-world problems with code.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🎓 B.Tech CSE | NOIDA Institute of Engineering and Technology  
-🧠 Areas of Interest: Artificial Intelligence, Full-Stack Development, Data Structures & Algorithms  
+ B.Tech CSE | NOIDA Institute of Engineering and Technology  
+ Areas of Interest: Artificial Intelligence, Full-Stack Development, Data Structures & Algorithms  
 
 
 ---
 
-## 💻 My Tech Stack
+##  My Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a Computer Science & Engineering student passionate ab
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![Vineet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vineetsharma9211&show_icons=true&include_all_commits=true&theme=tokyonight)
 
@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a Computer Science & Engineering student passionate ab
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet-sharma-39453728a)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vineet_sharma_9211/)
